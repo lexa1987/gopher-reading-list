@@ -20,7 +20,7 @@ something else on the list to keep it at a fixed length.
 
 - [x] [Why should you learn Go?](https://medium.com/@kevalpatel2106/why-should-you-learn-go-f607681fad65)
 - [x] [An Intro to Go for non-Go developers](https://benhoyt.com/writings/go-intro/)
-- [ ] [How to Write Go Code](https://golang.org/doc/code.html)
+- [x] [How to Write Go Code](https://golang.org/doc/code.html)
 - [ ] [A Tour of Go](https://tour.golang.org/welcome/1)
 - [ ] [Frequently Asked Questions](https://golang.org/doc/faq)
 - [ ] [Go Koans](https://github.com/cdarwin/go-koans)
