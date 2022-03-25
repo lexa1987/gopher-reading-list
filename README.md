@@ -21,16 +21,16 @@ something else on the list to keep it at a fixed length.
 - [x] [Why should you learn Go?](https://medium.com/@kevalpatel2106/why-should-you-learn-go-f607681fad65)
 - [x] [An Intro to Go for non-Go developers](https://benhoyt.com/writings/go-intro/)
 - [x] [How to Write Go Code](https://golang.org/doc/code.html)
-- [ ] [A Tour of Go](https://tour.golang.org/welcome/1)
-- [ ] [Frequently Asked Questions](https://golang.org/doc/faq)
-- [ ] [Go Koans](https://github.com/cdarwin/go-koans)
-- [ ] [Go by Example](https://gobyexample.com/)
+- [x] [A Tour of Go](https://tour.golang.org/welcome/1)
+- [x] [Frequently Asked Questions](https://golang.org/doc/faq)
+- [x] [Go Koans](https://github.com/cdarwin/go-koans)
+- [x] [Go by Example](https://gobyexample.com/)
 
 ## Beginner
 
 ### Some basics
 
-- [ ] [Understand Go pointers in less than 800 words or your money back](https://dave.cheney.net/2017/04/26/understand-go-pointers-in-less-than-800-words-or-your-money-back)
+- [x] [Understand Go pointers in less than 800 words or your money back](https://dave.cheney.net/2017/04/26/understand-go-pointers-in-less-than-800-words-or-your-money-back)
 - [ ] [Channel Axioms](https://dave.cheney.net/2014/03/19/channel-axioms)
 - [ ] [Golang channels tutorial](http://guzalexander.com/2013/12/06/golang-channels-tutorial.html)
 - [ ] [Understanding Go panic output](https://joeshaw.org/understanding-go-panic-output/)
