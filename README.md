@@ -34,7 +34,7 @@ something else on the list to keep it at a fixed length.
 - [x] [Channel Axioms](https://dave.cheney.net/2014/03/19/channel-axioms)
 - [x] [Golang channels tutorial](http://guzalexander.com/2013/12/06/golang-channels-tutorial.html)
 - [x] [Understanding Go panic output](https://joeshaw.org/understanding-go-panic-output/)
-- [ ] [Common Gotchas in Go](https://deadbeef.me/2018/01/go-gotchas)
+- [x] [Common Gotchas in Go](https://deadbeef.me/2018/01/go-gotchas)
 - [ ] [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 - [ ] [Slices from the ground up](https://dave.cheney.net/2018/07/12/slices-from-the-ground-up)
 - [ ] [6 Tips for Using Strings in Go](https://www.calhoun.io/6-tips-for-using-strings-in-go/)
